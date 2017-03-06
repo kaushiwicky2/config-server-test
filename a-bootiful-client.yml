@@ -1,0 +1,5 @@
+configuration:  
+  projectName: a-bootiful-client
+server:
+  port: 8080
+message: Hello world !
